@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
     <meta charset="utf-8">
@@ -11,22 +12,22 @@
     <title>SB Admin 2 - Bootstrap Admin Theme</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/resources/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="resourcesvendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- MetisMenu CSS -->
-    <link href="/resources/vendor/metisMenu/metisMenu.min.css" rel="stylesheet">
+    <link href="resourcesvendor/metisMenu/metisMenu.min.css" rel="stylesheet">
 
     <!-- DataTables CSS -->
-    <link href="/resources/vendor/datatables-plugins/dataTables.bootstrap.css" rel="stylesheet">
+    <link href="resourcesvendor/datatables-plugins/dataTables.bootstrap.css" rel="stylesheet">
 
     <!-- DataTables Responsive CSS -->
-    <link href="/resources/vendor/datatables-responsive/dataTables.responsive.css" rel="stylesheet">
+    <link href="resourcesvendor/datatables-responsive/dataTables.responsive.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="/resources/dist/css/sb-admin-2.css" rel="stylesheet">
+    <link href="resourcesdist/css/sb-admin-2.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="/resources/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="resourcesvendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -1113,21 +1114,21 @@
     <!-- /#wrapper -->
 
     <!-- jQuery -->
-    <script src="/resources/vendor/jquery/jquery.min.js"></script>
+    <script src="resourcesvendor/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="/resources/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="resourcesvendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Metis Menu Plugin JavaScript -->
-    <script src="/resources/vendor/metisMenu/metisMenu.min.js"></script>
+    <script src="resourcesvendor/metisMenu/metisMenu.min.js"></script>
 
     <!-- DataTables JavaScript -->
-    <script src="/resources/vendor/datatables/js/jquery.dataTables.min.js"></script>
-    <script src="/resources/vendor/datatables-plugins/dataTables.bootstrap.min.js"></script>
-    <script src="/resources/vendor/datatables-responsive/dataTables.responsive.js"></script>
+    <script src="resourcesvendor/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="resourcesvendor/datatables-plugins/dataTables.bootstrap.min.js"></script>
+    <script src="resourcesvendor/datatables-responsive/dataTables.responsive.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="/resources/dist/js/sb-admin-2.js"></script>
+    <script src="resourcesdist/js/sb-admin-2.js"></script>
 
     <!-- Page-Level Demo Scripts - Tables - Use for reference -->
     <script>
